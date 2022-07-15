@@ -1,0 +1,25 @@
+{
+  "name": "background-remove-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Darp",
+  "license": "ISC",
+  "bugs": {
+    
+  },
+  
+  "devDependencies": {
+    "got": "^11.8.1",
+    "sharp": "^0.27.0",
+    "telegraf": "^3.38.0",
+    "telegraf-throttler": "^0.3.0"
+  },
+  "dependencies": {
+    "newrelic": "^7.1.0"
+  }
+}
